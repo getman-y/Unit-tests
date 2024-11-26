@@ -1,6 +1,5 @@
-# qa_python
-### Список, реализованных тестов
-1. **test_add_new_book_add_two_book** -- Тест метода add_new_book проверяет возможность добавления двух книг 
+### Список, реализованных юнит-тестов
+1. **test_add_new_book_add_two_book** -- тест метода add_new_book проверяет возможность добавления двух книг 
 2. **test_add_new_book_add_identical_books_with_different_letter_case** -- Тест метода add_new_book проверяет возможность добавления одинаковых книг с разным регистром 
 3. **test_set_book_genre_set_non_existent_genre** -- Тест метода set_book_genre проверяет невозможность добавления книги с жанром, отсутствующим в списке жанров 
 4. **test_get_book_genre_get_genre_of_non_existent_book** -- Тест метода get_book_genre проверяет невозможность получения жанра книги, отсутствующей в словаре с книгами 
